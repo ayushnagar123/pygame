@@ -3,7 +3,7 @@
 - [ ] [3. colornfill.py](https://github.com/ayushnagar123/pygame/blob/master/practice/colornfill.py)
 - [ ] [4. drawrect.py](https://github.com/ayushnagar123/pygame/blob/master/practice/drawrect.py)
 - [ ] [5. movingrect.py](https://github.com/ayushnagar123/pygame/blob/master/practice/movingrect.py)
-- [ ] [6.movingobject.py](https://github.com/ayushnagar123/pygame/blob/master/practice/moveingobject.py)
+- [ ] [6.movingobject.py](https://github.com/ayushnagar123/pygame/blob/master/practice/movingobject.py)
 - [ ] [7. framespersec.py](https://github.com/ayushnagar123/pygame/blob/master/practice/framespersec.py)
 - [ ] [8.moreusercontrol.py](https://github.com/ayushnagar123/pygame/blob/master/practice/moreusercontrol.py)
 - [ ] [9. hardcodefix.py](https://github.com/ayushnagar123/pygame/blob/master/practice/hardcodefix.py)
